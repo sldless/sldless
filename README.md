@@ -6,11 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sldless&layout=compact&theme=chartreuse-dark)](https://github.com/sldless)
 
-[dm me for a discord bot ](https://discord.com/users/700609775838298113)
 ### What I know
 Python
 
-Web dev
+Web devlopment
 
 being lazy
 
