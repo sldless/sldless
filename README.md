@@ -6,14 +6,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sldless&layout=compact&theme=chartreuse-dark)
 
-### What Langauges I know
+[dm me for a discord bot ]( https://discord.com/users/700609775838298113)
+### What I know
 Python
 
-Django
+Web dev
 
-Flask
+being lazy
 
-etc 
+making stupid things
 
 Some JavaScript (and Node.js)
 
