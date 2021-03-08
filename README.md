@@ -4,9 +4,9 @@
 ### My Stats
 ![sldless's GitHub stats](https://github-readme-stats.vercel.app/api?username=sldless&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sldless&layout=compact&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sldless&layout=compact&theme=chartreuse-dark)](https://github.com/sldless)
 
-[dm me for a discord bot ]( https://discord.com/users/700609775838298113)
+[dm me for a discord bot ](https://discord.com/users/700609775838298113)
 ### What I know
 Python
 
