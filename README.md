@@ -16,11 +16,11 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=sldless&theme=tokyonight_duo&hide_border=true&ring=adb2d3&currStreakLabel=FFFFFF&sideNums=adb2d3&dates=979797&sideLabels=FFBF0F&currStreakNum=FFFFFF&border=FD2737&stroke=00000000&background=00000000&fire=8B91B6" /><td><p>
+    <p align="center">
+      <img src="https://discord.c99.nl/widget/theme-4/700609775838298113.png"><p>
 
 ### What I know
-Python, JavaScript (some or most idk), I'm learning Go on my free time so I guess GOLang counts
-    
-making stupid things
-
-
+Python,
+    JavaScript, 
+               and other languages
 *Follow me for dumb codes*
